@@ -1,0 +1,85 @@
+
+.primary-background {
+    background: #ed6137;
+}
+
+.top-header {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    color: #ffffff;
+    padding: 10px;
+    justify-content: space-between;
+}
+
+.body-padding {
+    padding: 1em 10em;
+}
+
+.user-actions {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    min-width: 10em;
+    justify-content: space-between;
+}
+
+.site-logo {
+    display: flex;
+    justify-content: center center;
+}
+
+.main-header {
+    padding: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.main-header nav {
+    width: 100%;
+}
+
+.menu-heading {
+    color: #ed6137;
+    font-weight: 700
+}
+
+.form-container {
+    margin-top: 3em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.contact-form {
+    min-width: 45%;
+}
+
+.contact-details {
+    min-width: 45%
+}
+
+hr {
+    border-top: 5px solid #525252
+}
+
+.submit-button {
+    background: #ed6137;
+    color: white
+}
+
+.form-input-color {
+    background: #F6F6F6;
+}
+
+.social-icon-size {
+    font-size: 2em;
+    margin-right: 5px;
+    color: #D0D0D0
+}
+
+.social-icon-size:hover {
+    font-size: 2em;
+    color: #212529;
+}
